@@ -2,7 +2,7 @@
 (https://media.licdn.com/dms/image/v2/D5616AQG0C41MxNx0lA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735191357666?e=1741219200&v=beta&t=CWkQBjKZmPpfD2L7eHTpIeP06EOe1eTL9qXzl66CMj8)
 ### Hi there 👋, I am Sazzad Hossen
 #### learning full-stack web development at programming hero
-![learning full-stack web development at programming hero](https://media.licdn.com/dms/image/v2/D5616AQG0C41MxNx0lA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735191357666?e=1741219200&v=beta&t=CWkQBjKZmPpfD2L7eHTpIeP06EOe1eTL9qXzl66CMj8)
+![learning full-stack web development at programming hero]
 
 Hey, I am Sazzad. I always love learning new skills. I am currently learning full-stack web development at Programming Hero. I also have skills in data entry, Excel, and creating professional resumes with MS Word.
 
