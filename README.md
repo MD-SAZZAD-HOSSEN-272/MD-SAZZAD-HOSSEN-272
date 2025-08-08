@@ -1,4 +1,7 @@
 ### Hi there 👋, I am Sazzad Hossen
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
 #### learning full-stack web development at programming hero.
 
 Hey, I am Sazzad. I always love learning new skills. I am currently learning full-stack web development at Programming Hero. I also have skills in data entry, Excel, and creating professional resumes with MS Word.
