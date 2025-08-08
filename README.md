@@ -1,7 +1,9 @@
 ### Hi there 👋, I am Sazzad Hossen
 #### I am a MERN Stack developer.
 
-Hey, I am Sazzad. I always love learning new skills. I am currently learning full-stack web development at Programming Hero. I also have skills in data entry, Excel, and creating professional resumes with MS Word.
+I’m a passionate and detail-oriented **Full-Stack Web Developer** with experience building responsive, user-friendly, and scalable web applications.  
+I enjoy working on modern technologies and continuously improving my skills to deliver high-quality projects.  
+I also have experience in **data entry, Excel**, and creating **professional resumes** with MS Word.  
 
 Skills:  HTML, CSS, React, Tailwind, Node.js, MongoDB, Express.js, Firebase, JWT
 
