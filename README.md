@@ -1,8 +1,5 @@
-### Hi there 👋, I am
-
-[<img src="[https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif](https://github.com/MD-SAZZAD-HOSSEN-272)" alt="👋 Hi there! I'm (Sazzad Hossen|https://sazzad-hossen-portfolio.netlify.app/)" title="👋 Hi there! I'm ( Sazzad Hossen|https://sazzad-hossen-portfolio.netlify.app/)"/>](https://sazzad-hossen-portfolio.netlify.app/)
-
-#### learning full-stack web development at programming hero.
+### Hi there 👋, I am Sazzad Hossen
+#### I am a MERN Stack developer.
 
 Hey, I am Sazzad. I always love learning new skills. I am currently learning full-stack web development at Programming Hero. I also have skills in data entry, Excel, and creating professional resumes with MS Word.
 
