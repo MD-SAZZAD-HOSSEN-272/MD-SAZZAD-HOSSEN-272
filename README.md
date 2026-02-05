@@ -9,7 +9,7 @@ I enjoy continuous learning and turning ideas into real-world products with clea
 
 👂 Name: Sazzad Hossen
 
-👨 Pronouns: He / Him
+👨 Pronouns: He
 
 🔭 Currently working on: Improving my GitHub & real-world projects
 
@@ -43,7 +43,7 @@ Handle data entry & Excel tasks
 
 ```
 const sazzad = {
-  pronouns: "He/Him",
+  pronouns: "He",
   role: "MERN & Next.js Developer",
   techStack: {
     frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind", "Bootstrap"],
