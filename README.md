@@ -1,42 +1,71 @@
-### Hi there 👋, I am Sazzad Hossen
-#### I am a MERN Stack developer.
+👋 Hi there, I’m Sazzad Hossen
+🚀 MERN & Next.js Stack Developer
 
-I’m a passionate and detail-oriented **Full-Stack Web Developer** with experience building responsive, user-friendly, and scalable web applications.  
-I enjoy working on modern technologies and continuously improving my skills to deliver high-quality projects.  
-I also have experience in **data entry, Excel**, and creating **professional resumes** with MS Word.  
+I’m a passionate and detail-oriented Full-Stack Web Developer who loves building responsive, scalable, and user-friendly web applications using modern technologies.
+I enjoy continuous learning and turning ideas into real-world products with clean UI and solid backend logic.
 
-Skills:  HTML, CSS, React, Tailwind, Node.js, MongoDB, Express.js, Firebase, JWT
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning full-stack web development at programming hero.
+🙋‍♂️ About Me
 
+👂 Name: Sazzad Hossen
+
+👨 Pronouns: He / Him
+
+🔭 Currently working on: Improving my GitHub & real-world projects
+
+🌱 Currently learning: Advanced MERN & Next.js at Programming Hero
+
+🤝 Looking to collaborate on: MERN / Next.js projects & open-source
+
+🤔 Looking for help with: Performance optimization & best practices
+
+💬 Ask me about: Web Development, MERN Stack, UI/UX, CMS
+
+📫 How to reach me: (Add email / LinkedIn later)
+
+❤️ I love: Clean code, modern UI, and learning new tech
+
+⚡ Fun fact: I enjoy fixing bugs more than writing new code 😄
+
+🧑‍💻 What I Do
+
+Build Full-Stack Web Applications
+
+Develop SEO-friendly & high-performance UIs
+
+Create websites using CMS platforms (Wix & Squarespace)
+
+Work with Firebase authentication & JWT
+
+Design professional resumes & documents using MS Word
+
+Handle data entry & Excel tasks
 
 ```
-const skill = {
-    pronouns: "He" | "Him",
-    code: ["Javascript"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express"]
-        },
-        databases: ["MongoDB", "SQLite", "Firebase Realtime DB"],
-    },
+const sazzad = {
+  pronouns: "He/Him",
+  role: "MERN & Next.js Developer",
+  techStack: {
+    frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind", "Bootstrap"],
+    backend: ["Node.js", "Express.js"],
+    databases: ["MongoDB", "Firebase", "SQLite"],
+    cms: ["Wix", "Squarespace"]
+  },
+  tools: ["Git", "GitHub", "VS Code", "Figma"],
+  interests: ["Web Development", "UI/UX", "SaaS", "Tech Trends"]
 };
 
+
+
 ```
 
+
+
 ### Skills
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" title="Illustrator"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
-</p>
+<p align="left"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36"/> </p>
 
 
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
 
