@@ -21,7 +21,7 @@ I enjoy continuous learning and turning ideas into real-world products with clea
 
 💬 Ask me about: Web Development, MERN Stack, UI/UX, CMS
 
-📫 How to reach me: (Add email / LinkedIn later)
+📫 How to reach me: (https://github.com/MD-SAZZAD-HOSSEN-272)
 
 ❤️ I love: Clean code, modern UI, and learning new tech
 
