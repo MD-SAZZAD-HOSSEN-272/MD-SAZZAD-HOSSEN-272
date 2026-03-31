@@ -32,7 +32,7 @@ education:
   ]
 company: Softvence
 
-fields_of_interests:
+Skills:
   [
     "Web Development",
     "MERN Stack",
