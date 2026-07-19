@@ -23,7 +23,7 @@
 ```yaml
 name: Md. Sazzad Hossen
 located_in: Dhaka, Bangladesh
-current_job: MERN Stack Developer
+current_job: Full Stack Developer
 education:
   [
     "Jaldhaka Gov College",
@@ -40,6 +40,11 @@ Skills:
     "React",
     "JavaScript",
     "Express.js",
+    "Node.js",
+    "TypeScript",
+    "Prisma",
+    "MongoDB",
+    "PostgreSQL"
   ]
   
 currently_learning: ["Docker, Kubernetes, and React Native"]
